@@ -1,0 +1,15 @@
+img {
+    display: flex;
+    width: 15%;
+    margin: 0 auto;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+    margin: 0 auto;
+    width: 50%;
+}
