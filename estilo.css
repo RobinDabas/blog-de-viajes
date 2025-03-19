@@ -5,7 +5,7 @@ img {
     border: 5px solid #0000FF;
 }
 
-h1, h2 {
+h1, h2, h3 {
     text-align: center;
 }
 
@@ -13,4 +13,8 @@ p {
     text-align: justify;
     margin: 0 auto;
     width: 50%;
+}
+
+ul, li {
+    text-align: center;
 }
