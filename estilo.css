@@ -18,3 +18,14 @@ p {
 ul, li {
     text-align: center;
 }
+
+a {
+    line-height: 32px;
+}
+
+video {
+    display: flex;
+    width: 50%;
+    margin: 0 auto;
+    border: 5px solid #0000FF;
+}
