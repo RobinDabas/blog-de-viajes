@@ -29,3 +29,10 @@ video {
     margin: 0 auto;
     border: 5px solid #0000FF;
 }
+
+table, th, td {
+    border: 1px solid #ff0000;
+    border-collpase: collapse;
+    text-align: center;
+    margin: 0 auto;
+}
