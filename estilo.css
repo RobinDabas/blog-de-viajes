@@ -36,3 +36,13 @@ table, th, td {
     text-align: center;
     margin: 0 auto;
 }
+
+#popup-registro {
+    display: none;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    background-color: #0000FF;
+    padding: 20px;
+    border: 1px solid #ff0000
+}
